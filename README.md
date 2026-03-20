@@ -3,7 +3,7 @@
 
 ### About Me
 
-I’m 21 and the kind of person who genuinely enjoys helping people and making things easier. Whether it’s through code or small everyday interactions, I like simplifying problems and creating experiences that feel smooth and intuitive.
+I’m Noah Menchão, 21, and the kind of person who genuinely enjoys helping people and making things easier. Whether it’s through code or small everyday interactions, I like simplifying problems and creating experiences that feel smooth and intuitive.
 
 ☕ Fun fact: I’m also a barista, I love making connections and serving people.
 
