@@ -1,5 +1,5 @@
 ## Hello there 👋 I'm hwwwon
-**`Full Stack Web Developer`**
+**`Front end Web Developer`**
 
 ### About Me
 
